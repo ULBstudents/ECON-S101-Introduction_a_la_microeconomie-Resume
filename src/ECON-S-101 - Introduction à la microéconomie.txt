@@ -1,0 +1,1397 @@
+﻿ECON-S-101 - Introduction à la microéconomie
+Résumé modifiable :
+https://docs.google.com/document/d/1Yp59wXP_cZ3UyLbe8niCQsu0qpc6IqnscgHuR5Pk5Cw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aide à l’étude
+
+Introduction à la microéconomie
+
+ECON-S-101
+________________
+
+
+Formulaire
+Séance 1 : l’offre et la demande
+  
+
+
+
+  
+
+L’offre augmente de façon autonome en O’
+	  
+
+La demande augmente de façon autonome en D’
+	  
+
+L’offre diminue de façon autonome en O’
+	  
+
+La demande diminue de façon autonome en D’
+	
+
+Équation de la demande:        D P = a - bQ
+Équation de l’offre:         O P = c + dQ
+Prix à l’équilibre:        O = D
+________________
+
+
+Séance 2 : l'élasticité
+- Élasticité d’une variable A par rapport à une autre variable B =
+
+
+
+- Élasticité-prix de la demande = d =
+        (Attention, prendre le Q de la demande)
+Donc si P augmente (diminue) de x%, Qd diminue (augmente) de x .d %
+
+
+- Élasticité-prix de l’offre = o =
+        (Attention, prendre le Q de l’offre)
+Donc si P augmente (diminue) de x%, Qo augmente (diminue) de x .o %
+
+
+Offre ou demande élastique                 ⇔> 1
+Offre ou demande inélastique                 ⇔< 1
+Offre ou demande élasticité unitaire         ⇔= 1
+
+
+Affirmations vraies :
+Demande élastique        P↗ un peu,        Q↘ beaucoup        RT (P.Q)↘
+Demande élastique        P↘ un peu,        Q↗ beaucoup        RT (P.Q)↗
+Demande inélastique        P↗ beaucoup,        Q↘ un peu        RT (P.Q)↗
+Demande inélastique        P↘ beaucoup,        Q↗ un peu        RT (P.Q)↘
+ 
+  
+
+L’offre et demande parfaitement inélastique
+(Élasticité nulle car)
+	  
+
+L’offre et demande parfaitement élastique
+(Élasticité infinie car)
+	
+
+
+
+  
+
+	Dans la zone 1, la demande est élastique et la recette marginale est positive. Si les prix diminuent, alors les quantités demandées vont augmenter plus que proportionnellement et la recette totale va alors augmenter.
+d > 1
+RM > 0
+P↘ un peu alors Qd↗ beaucoup
+RT↗
+
+
+Dans la zone 3, la demande est inélastique et la recette marginale est négative. Si les prix diminuent, alors les quantités demandées vont augmenter moins que proportionnellement et la recette totale va alors diminuer.
+d < 1
+RM < 0
+P↘ beaucoup alors Qd↗ un peu
+RT↘
+
+
+Au point 2, la demande a une élasticité unitaire tandis que la recette marginale est nulle et la recette totale est maximale.
+d = 1
+RM = 0
+RT = max
+	La recette totale        =        RT        =        PQ        = aQ-bQ²
+La recette marginale        =        RM        =        dRT/dQ        = a - 2bQ
+L’élasticité de la demande vaut 1 quant Q = a/2b
+
+
+________________
+Séance 3 : Utilité et choix du consommateur
+  
+
+	TMSA,B = = 
+max(TMSA,B) = 
+
+
+si        U = k. XA.YB
+alors        Budget X: A/(A+B)
+        Budget Y: B/(A+B)
+
+
+Contrainte budgétaire (pointié) :
+PA A + PB B = Y (budget)
+	
+
+  
+
+Bien parfaitement complémentaires
+	  
+
+Biens parfaitement substituables
+	Affirmations vraies :
+- Si le prix du bien B (substitut à A) diminue, la demande pour le bien A diminue;
+- Si le prix du bien B (substitut à A) augmente, la demande pour le bien A augmente;
+- Si le prix du bien B (complémentaire à A) diminue, la demande pour le bien A augmente;
+- Si le prix du bien B (complémentaire à A) augmente, la demande pour le bien A diminue ;
+________________
+
+
+Séance 4 : Offre de travail et de capital
+- 1 journée = 24 heures = heures de Tr + heures de loi
+- Salaire horaire = Wh
+- Revenu journalier = Y = Wh x heures de Tr
+
+
+- Consommation 1ère période = Ct
+- Consommation 2ème période = Ct+1
+- Epargne = St = Yt - Ct (si St < 0 : emprunt)
+- Ct+1 = Yt+1 + (1+ r)St 
+Séance 5 : Coûts dans l’entreprise
+CT = coût totaux                CV = coûts variables
+CF = coûts fixes                CT = CV + CF
+
+
+CMoT = coûts moyens totaux        CMoV = coûts moyens variables
+CMoF = coûts moyens fixes        CMoT = CT/Q
+CMoV = CV/Q                        CMoF = CF/Q
+
+
+CMoT = CMoV + CMoF
+
+
+CM = coût marginaux
+CM = dCT/dQ
+
+
+CT = ∫CM dQ + CF
+
+
+PT = produit total                PMo = produit moyen
+PM = produit marginal
+PMo = PT/Q                        PM = dPT/dQ
+
+
+RT = recette totale                RM = recette marginale
+RT = P.Q                        RM = dRT/dQ
+
+
+∏ = profit = RT-CT = (RM - CM).Q
+
+
+Maximisation du profit = Optimum = d∏/dQ = 0 ⇔ dRT/dQ - dCT/dQ = 0 ⇔ RM - CM = 0⇔RM = CM
+Séance 6 : Choix du producteur en concurrence parfaite et monopole
+- Concurrence parfaite ⇔ demande parfaitement élastique
+- Seuil de rentabilité ⇔ P = min( CMoT ) avec Q ⇔ (CMoT)’ = 0
+- Seuil de fermeture ⇔ P = min( CMoV ) avec Q = 0
+- Optimum ⇔ RM = CM ⇔ P = CM
+Séance 7 : Concurrence monopolistique, oligopole et comparaison des diverses formes de marché
+Chaque acteur choisit les actions qui maximisent son profit.
+Chaque acteur agit de faàon rationnelle et interdépendante.
+Un équilibre de Nash est une solution où aucun acteur n’a intérêt à changer de stratégie.
+Une stratégie dominante pour un acteur est la stratégie qui lui donne le meilleur gain (payoff) quelle que soit la stratégie choisie par les autres acteurs.
+
+
+
+
+
+
+Concurrence parfaite
+* La demande pour la firme est parfaitement élastique.
+* Le revenu marginal du producteur est égal au prix de vente  RM = P ;
+* À l’optimum RM = CM = P
+* Il y a libre entrée et sortie des firmes ;
+* Les biens vendus par les différentes firmes sont homogènes ;
+* À court terme, la courbe de CM donne exactement l’offre de l’entreprise pour les prix P > min(CMoVariable) ;
+* À long terme, la courbe de CMoT donne exactement l’offre de l’entreprise pour les prix P > min(CMoTotal).
+* À long terme l’entreprise produit si P > CMoT
+* À long terme, P = CMoTmin => Prix d’entrée ou d’exit.
+* À long terme, les décisions sont interprétée comme les décisions d’entrée et de sortie.
+
+
+Concurrence monopolistique
+* L’offre émane d’un seul producteur.
+* Monopole privé veut maximiser sont profit. => RM = CM.
+* Contrairement à la concurrence parfaite, le monopole peut avoir un profit positif à long terme.
+* RM > 0 ssi c’est élastique
+* RM < P
+* Par rapport à une situation de concurrence parfaite., le monopole réduit les quantités et augmente le prix. La situation est donc moins avantageuse côté consommateur.
+* A long terme, le monopole va diminuer encore plus les quantités et le prix sera encore plus élevé.
+* Perte de bien-être due au monopole: comparaison à long-terme.
+* Un monopole n’a pas de courbe d’offre puisqu’il choisit son prix.
+* Lorsqu’il n’y a qu’un seul prix, les consommateurs retirent toujours un surplus car ils auraient été prêts à payer plus cher que ce qu’ils vont payer effectivement.
+* La discrimination des prix signifie que différents consommateurs vont payer des prix différents.
+* La discrimination ne marche que si le marché est cloisonné.
+* Si discrimination est parfaite, il y a un grand nombre d’acheteurs qui sont prêts à acheter une quantité infinitésimale et le monopoliste est capable de discriminer sur chaque point de la droite de demande.
+* En présence de discrimination, RM se confond toujours avec la droite de demande.
+* L’existence de monopole est indispensable pour le progrès technique selon Schumpeter.
+* Le progrès technique a lieu car les firmes privées recherchent les situations de monopole.
+* Le progrès technique permet de diminuer le coût moyen avec le temps.
+* Le système de brevet permet de créer des monopoles temporaires.
+
+
+Le monopole naturel
+* Lorsque les coût fixes sont énormes et qu’il y a des économies d’échelle, il y a une situation de monopole naturel.
+
+
+Oligopole
+* Chaque firme dispose de sa propre clientèle (la demande est propre à chaque firme) ;
+* Une collusion entre les firmes est envisageable[a]
+________________
+
+
+1.Introduction
+2. L’offre et la demande
+La loi de l’offre et de la demande est la base du raisonnement économique et régule le marché.
+L’équilibre entre l’offre et la demande constitue le mécanisme fondamental d’équilibrage dans l’économie.
+Il y a interdépendance entre différents marchés. Ça signifie que la fluctuation d’un marché pour avoir un effet sur un autre.
+2.1. La demande
+Dans un marché simple on peut raisonner en fonction de deux variables placé sur deux axes:
+* P : Axe des prix         (Axe vertical)
+* Q: Axe des quantités        (Axe horizontal)
+La demande du marché est l’addition des quantité demandée par chacun des consommateurs.
+Le consommateur n’achetera pas la même quantité pour des prix différents.
+=> Pour des prix différents on a des quantités différentes.
+
+
+La demande augmente lorsque le prix baisse => La demande est une fonction décroissante du prix.
+  
+
+2.1.1. Utilité totale et utilité marginale
+1. Utilité: Satisfaction subjective que les consommateurs retirent d’un bien.
+2. Utilité marginale: Utilité additionnelle procurée par la consommation d’une unité additionnelle du bien.
+3. Utilité marginale décroissante: L’utilité marginale à tendance à tendre vers 0 (Plus on a consommé d’un bien, moins une unité additionnelle aura d’utilité.)
+L’utilité marginale décroissante explique le fait que la relation prix/quantité de la demande est décroissante. On a moins de satisfaction  à avoir une unité supplémentaire, on est donc pas prêt à y mettre autant d’argent.
+
+
+Exception à la relation décroissante entre prix/quantité: Le comportement “snob”. Le snob est intéresser plus par le prix du bien que sa consommation. Plus c’est cher, plus il est prêt à l’accepter.
+2.2. L’offre
+Plus le prix augmente plus les quantités offertes seront importantes => L’offre est une fonction croissante du prix.
+Le principe à la base de ce comportement est le coût marginal, c’est à dire le coût additionnel engendré par la production d’une unité additionnelle.
+2.3. L’équilibre
+L’équilibre est l’égalité des quantités offertes et des quantités demandées.
+On l’obtient à l’intersection de la courbe d’offre et de la courbe de demande.
+* PE : Prix d’équilibre du marché
+* QE : Quantité d’équilibre du marché
+  
+
+Que ce passe t(il si PE != P ?
+a) P > PE :
+Offre > Demande => Stock d’invendu => Baisse de prix pour les vendre
+b) P < PE :
+Offre < Demande => Pas assez de bien pour tout le monde => Le consommateur est prêt à payer plus pour le bien.
+A l’équilibre les ventes sont maximales.
+2.4. Déplacement de l’offre et de la demande
+2.4.1 Déplacement de la demande
+La demande pour un bien dépend de toute une série de variable économiques:
+
+
+a) La préférence des consommateurs. Si ils aiment le bien, ils sont prêt à payer plus cher.
+
+
+b) Le revenu ‘Y’. Si il augmente, la quantité demandée va augmenter => Effet de revenu.
+
+
+c) Le prix des autres bien. Un changement parmis les autres prix va influencer la demande pour ce bien.
+        1) Effet de substitution: Lorsque le prix d’un autre bien augmente, la demande du bien considéré augmente. Le bien se substitue à l’autre, comme le prix de l’autre augmente, ils vont préférer acheter celui ci.
+        2)Effet de complémentarité: Lorsque le prix d’un autre bien diminue, la demande du bien considéré augmente. Les biens sont complémentaire. Ex: Le prix des voitures baissent, du coup la demande pour les pneus vont augmenter.
+
+
+
+
+Si le prix ou la quantité de bien varie, le déplacement se fait le long de la droite de demande.
+Si c’est une autre variable qui se modifie, le déplacement se fait de manière autonome.
+
+
+Effet d’un déplacement de la demande sur l’équilibre:
+- Si il y a une augmentation de la demande suite à une variation de revenu ou du prix des autres biens, le prix d’équilibre et la quantité d’équilibre augmentent.
+-Si il y a une diminution de la demande suite à une variation de revenu ou du prix des autres biens, le prix d’équilibre et la quantité d’équilibre diminuent.
+
+
+2.4.2. Déplacement de l’offre
+La quantité offerte d’un bien dépend de son prix mais aussi de son coût de production.
+Si le coût diminue l’offre va augmenter. Si il augmente, l’offre va diminuer.
+
+
+-Si l’offre augmente, les quantités augmentent et les prix diminuent.
+-Si l’offre diminue, les quantités diminuent et les prix augmentent.
+2.4.3. Déplacement de l’offre et la demande
+2.4.3.1. Augmentation de l’offre et augmentation de la demande:
+Les quantités augmentent toujours mais l’effet sur le prix peut varier.
+2.4.3.2. Augmentation de la demande et diminution de l’offre:
+Les prix augmentent toujours, mais l’effet sur les quantités est indéterminé.
+2.5. Anomalies du marché
+2.5.1. Pourquoi observe-t-on des files d’attente sur un marché libre ?
+En général, on a des files lorsque les prix sur le marché ne peuvent pas fluctuer et qu’ils ont atteint leur plafond.
+
+
+Mais on peut en observer lorsque les prix peuvent fluctuer en l’absence de toute limite.
+Cela est dû à un effet grégaire ( = effet de popularité).
+
+
+Ex d’un restaurant: L’offre est verticale, il ne peut servir qu’une quantité limité de repas. Or sous l’effet de popularité, les quantités demandée deviennent plus importantes que celles offertes.
+2.5.2. Que se passe-t-il lorsque les acheteurs ne sont pas parfaitement informés de la qualité du produit qu’ils vont acheter?
+Si l’acheteur est bien informé, c’est comme si il avait avait a deux marchés: Marché des bonnes occasions et le marché de mauvaises occasions.
+Si il est mal informé, il aura un doute sur la qualité des bonnes occasions et la demande sera moins importantes pour celles ci. Par contre la demande pour les mauvaises occasions va augmenter.
+3. L’élasticité de l’offre et de la demande
+3.1. Élasticité de la demande
+3.1.1. Définitions
+L’élasticité de la demande est le rapport entre le taux de croissance des quantités demandées et le taux de croissance du prix d’un bien, précédé d’un signe négatif.
+
+
+nd = - ( (Δqd/qd)  / (Δp/p) )
+
+
+Exemple:
+Une élasticité de la demande de 3 signifie que :
+- Si le prix du bien augmente de 1%, la demande va diminuer de 3%
+- Si le prix du bien diminue de 1%, la demande va augmenter de 3%
+3.1.2. Facteurs déterminant l’élasticité d’une demande:
+1/ Bien de première nécessité ( ex: bien alimentaire) sont peu élastique
+2/ Les drogues sont peu élastiques.
+3/ Plus la catégorie de bien considérée est large et agrégée, moins la demande est élastique.
+        (ex: Élasticité voiture < Elasticité Toyota )
+4/ Plus la part du revenu consacrée au bien est faible, moins la demande sera élastique.
+3.1.3. Les classes d’élasticité:
+1/ La demande est parfaitement inélastique:
+nd = 0
+  
+
+2/ La demande est inélastique: 0 < nd < 1
+3/ la demande à une élasticité unitaire: nd = 1
+4/ la demande est élastique: 1 < nd < infini
+5/ La demande est parfaitement élastique: nd = infini
+  
+
+3.1.4. Mesure graphique de l’élasticité:
+Dans le cas d’une demande linéaire:
+  
+
+3.1.5. Les courbes à l’élasticité constante:
+Equation : Q = a P-Ɛ  => Elasticité = Ɛ
+3.1.7. Élasticité et recettes totales:
+Recette marginale: Recette additionnelle procurée par la vente d’une unité supplémentaire
+=> Pente de la recette totale
+
+
+Recette totale (RT) est max quand la recette marginale (RM) est nulle.
+  
+
+
+
+3.2. Élasticité de l’offre
+3.2.1. Définition
+ no = (Δ Qo / Qo ) / (ΔP / P)
+3.2.3. Déterminants de l’élasticité de l’offre
+Critère essentiel:  La période à laquelle on regarde l’offre.
+
+
+1) La période infra-courte: Offre parfaitement inélastique
+ex: Marché aux poissons, … l’offre ne varie pas et il faut tout vendre tout de suite.
+
+
+2) La période courte: Les entreprises peuvent adaptés leurs productions en changeant leurs matières premières et le facteur travail. Les facteurs fixes de productions ne varient pas (équipements,installations,machines,...).
+
+
+3)La période longue: L’entreprise peut parfaitement ajuster toutes ses capacités à ses décisions de production. Elasticité parfaitement élastique.
+3.3. Élasticité et déplacement de l’offre et de la demande
+3.3.1. Cas de la demande parfaitement inélastique
+a) O+ D+ -> P? Q+
+b) O- D+ ->P+ Q+
+3.3.2. Cas de la demande parfaitement élastique
+a)  D+ O+ -> P+ Q+
+b) D+ O- -> P+ Q?
+3.3.3. Cas de l’offre parfaitement inélastique
+a) O+ D+ -> P? Q+
+b) O- D+ -> P+ Q-
+3.3.4. Cas de l’offre parfaitement élastique
+a) D+ O+ -> P- Q+
+b) D+ O- ->P+ Q?
+3.4. Applications du concept de l’élasticité
+3.4.1. Élasticité et répartition de la charge de l’impôt indirect
+1er cas: La taxe est payée par l’acheteur
+  
+
+
+
+2e cas: la taxe est payée par le vendeur
+  
+
+
+
+Conclusion: Quel que soit celui qui paye la taxe, la charge économique est partagée
+
+
+4. Demande et théorie de l’utilité
+4.1. Utilité et utilité marginale
+L’utilité est une notion subjective: Il n’y a pas de mesure objective.
+Ce n’est pas un concept cardinal (s’exprimant en chiffre) mais ordinal ( relation d’ordre )
+L’utilisateur fait a différent panier de consommation et les classe par utilité.
+4.2. Propriétés des courbes d’indifférence
+4.2.1. Toutes les courbes d”indifférence ont une pente négative
+cf titre. Si on consomme par exemple une certaine quantité de bière et de vin, on est indiffèrent au fait de prendre moins de bière seulement si on prend plus de vin.
+
+
+4.2.2. Les courbes d’indifférence ne se coupent pas ( = non sécante)
+ex: Sinon la courbe U0 commençant au dessus de la courbe U1 ( donc U0 donne plus de satisfaction que U1) passe en dessous si elle se coupent. U0 donnera donc moins de satisfaction que U1 ce qui n’est pas normal.
+
+
+4.2.3. Les courbes d’indifférence sont convexes
+Ceci est basé sur le concept du taux marginal de substitution = Accroissement de bière par unité d’accroissement de vin sur une courbe d’indifférence précédé du signe négatif.
+
+
+TMSb,a = - (db / da) = UMa / UMb
+
+
+Si on a beaucoup de bière et presque pas de vin, on est prêt à sacrifier pas mal de bière pour avoir une unité de vin en plus. A l’inverse, si on a beaucoup de vin et presque pas de bière, si on sacrifie une bière on veut beaucoup de vin en retour.
+
+
+Cas particuliers du TMS:
+1) Si U(a,b) = alpha * a + bêta * b
+TMS = Bêta/alpha et constant
+=> Bien parfaitement substituable et les courbes sont des droites
+
+
+2) SI U(a,b) = min{alpha * a, bêta * b}
+=> Bien parfaitement complémentaire et courbes sont deux demi-droites
+4.3. La contrainte de budget
+Y = Pa * A + Pb *B
+  
+
+Si le revenu augmente/diminue il y a un déplacement parallèle de la droite de budget vers la droite/gauche.
+
+
+4.4. Le choix du consommateur
+Le choix optimal du consommateur est l’intersection entre le droite de budget la courbe d’indifférence la plus importante parmi celle qu’elle croise.
+
+
+Le choix optimal du consommateur se fait lorsque l’utilité marginale du dernier euro investi est égalisée pour tous les biens.
+
+
+U’A / Pa = U’B / Pb
+ou aussi
+Pa / Pb = - dB / dA
+
+
+4.5. Les modifications de l’optimum
+4.5.1. Variation de budget
+Si le budget augmente, la droite de budget se déplace vers la droite et peut croiser des courbes d’indifférence qu’elle ne rencontrait pas avant.
+
+
+Soit la quantité consommée des deux biens augmente, soit la consommation d’un bien diminue et l’autre augmente fortement. Mais il est impossible d’avoir un cas où la consommation des deux biens diminue.
+
+
+Élasticité demande des biens au revenu :
+na/ Y = (dA / A) / (dY / Y)
+biens normaux: Élasticité revenu positive
+biens inférieurs:Élasticité revenu négative
+
+
+4.5.2. Variation des prix
+Si Pa augmente/diminue, le consommateur peut acheter moins/plus de bien A.
+  
+
+La baisse de Pa a deux effets sur le consommateur :
+1) effet de revenu: On peut acheter plus des deux biens.
+2) effet de substitution: Le bien A devient moins cher donc on substituera le bien B par le bien A.
+
+
+Dans le cas de bien complémentaire, l’effet de revenu domine toujours.
+
+
+Elasticité croisée :
+
+
+nB/ Pa = (dB /B) / (dPa / Pa)
+Négative lorsque effet de revenu dominant.
+Positive lorsque effet de substitution dominant.
+
+
+Le cas des biens “Giffen”
+Dans certains cas exceptionnels, une diminution de Pa peut diminuer Qa => Paradoxe de Giffen.
+
+
+Cette situation ne se présente que dans des cas de pauvreté extrême.
+ex: On est trop pauvre pour s’acheter de la viande, on va consommer des légumes et des féculents. La baisse de prix des féculents va libérer une partie du budget et on va préférer acheter moins de féculents pour acheter plus de viande.
+
+
+4.6. Construction de la demande
+On reprend le choix du bien en faisant varier son prix et on somme ensuite tous les choix des individus.
+4.7. Le surplus du consommateur
+Il n’y a qu’un seul prix pour un bien su rle marché qui est égal a l’utilité marginale de la dernière quantité acheté. Les consommateurs obtiennent donc un “surplus”. Il aurait été prêts à acheter des quantités moindres à un prix supérieurs.
+  
+
+5. Les coûts et les décisions de production des entreprises
+5.1. Coûts économiques et coûts comptables
+Profit = Revenu - Coût
+cash flow = entrée de recette - paiements éffectués
+
+
+Le coût d’opportunité représente la perte qu’on subit en n’utilisant pas une ressource à son meilleur usage alternatif.
+5.2. Les coûts et l’offre: Exemple introductif
+Les coûts fixes (CF) sont les coûts qu’il faut supporter de toute façon, indépendamment de la quantité produite, et donc même si on ne produit pas.
+
+
+Les coûts variables (CV) sont des coûts qui varient avec la quantité produite.
+
+
+La somme des coûts variables et des coûts fixe représente les coûts totaux ( CT )
+
+
+Le coût marginal ( CM ) est le coûts de la production d’une unité supplémentaire.
+Le Revenu marginal ( RM ) est le revenu de la production d’une unité supplémentaire.
+
+
+A l’optimum RM = CM.
+5.3. Coût marginal et revenu marginal
+RT = P * Q
+RM = dRT / dQ
+
+
+Dans le cas d’une concurrence parfaite : RM = P.
+Sinon, RM varie en fonction de la quantitée produite.
+5.4. Coût marginal et coût moyen
+CM = CMoT au minimum de CMoT
+Si Q plus petit , CMoT > CM
+Si Q plus grand, CM > CMoT
+5.5. Coût moyen de long terme
+Si Q augmente et CMoT diminue => Économie d’échelle ou rendements d’échelle croissant.
+Si CMoT constant => Rendements d’échelle constants.
+Si  Q diminue et CMoT augmente => Rendements d’échelle décroissants.
+
+
+Pourquoi y a t’il des “économies d’échelles” ?
+a/ Indivisibilité
+b/ Spécialisation
+c/ Elements physiques
+5.6. Productivité et coûts
+5.6.1. Le produit marginal du travail
+Le produit marginal du travail, PM, est la dérivée de la fonction de production par rapport à la quantité de travail: dQ/dL. Économiquement, le produit marginal est la quantité additionnelle que l’on peut produire avec une unité de travail supplémentaire.
+5.6.2. Produit marginal et produit moyen
+Le produit moyen est la quantité produite divisée par le nombre de travailleurs, càd la productivité moyenne dans l’entreprise ( la quantité produite par unité de travailleur).
+
+
+PM = PMo au maximum du PMo
+Lorsque PMo augmente, PM > PMo
+Lorsque PMo diminue , PMo > PM.
+5.6.3. Relation entre coût et produit marginal et moyen:
+w = salaire horaire.
+CM = w/PM
+5.7. Décisions de long terme de l’entreprise:
+5.7.1. Les conditions d’optimum:
+Il y a deux conditions à satisfaire à l’optimum
+RM = CM et P assez élevé.
+
+
+Profit positif:
+Il faut que le prix soit supérieur au coût moyen de long terme.
+Seuil de rentabilité: Le niveau de prix minimum pour que l’entreprise puisse faire des profits non-négatifs. Il est donné par le minimum du cout moyen total.
+
+
+RM = CM:
+Si RM = CM on est au minimum du CMoT.
+
+
+Donc P > CMoT au point où RM = CM pour que l’entreprise soit rentable.
+5.8. Décision de court terme de l’entreprise:
+Il est possible que l’entreprise fasse des pertes et décide de produire quand même à court terme.
+
+
+Si CMoV < P < CMoT, la perte est moins grande si on prodruit car on a les CF à payer.
+
+
+Le seuil de fermeture de l’entreprise est lorsque P = CMoV. A court terme,elle produit si le prix est supérieur à ce seuil, elle ferme si il est inférieur.
+5.9. Le court terme et le long terme:
+A long terme, tous les facteurs de production peuvent varier donc l’entreprise peut les ajuster pour optimiser ses coûts.
+
+
+A court terme, la capacité de production est fixe, il faut optimiser en fonction de ce capital.
+6. Économie industrielle
+6.1. La concurrence parfaite
+Il y a un très grand nombre de producteur concurrent et le producteur individuel est trop petit pour influencer le prix de marché.
+=> Il fait face à une demande parfaitement élastique.
+
+
+Il y a concurrence parfaite lorsque les 4 conditions suivantes sont réunies:
+1/ Beaucoup de producteur “atomistique”.
+2/ Le produit est homogène.
+3/ L’information est parfaite.
+4/ L’entrée est libre.
+
+
+Le revenu marginal du producteur est égal au prix de vente => RM = P.
+=> à l’optimum RM = CM = P
+
+
+6.1.1. La décision à court terme
+En concurrence parfaite, la courbe de CM donne exactement l’offre de l’entreprise à court terme pour les prix P>CMoV min.
+6.1.2. La décision d’offre à long terme
+A long terme, l’entreprise produit si P > CMoT.
+En concurrence parfaite, la courbe de CMoT donne exactement l’offre de l’entreprise à long terme pour les prix P>CMoT min.
+
+
+P = CMoTmin => Prix d’entrée ou d’exit.
+
+
+Dans le concurrence parfaite, les décisions de long terme sont interprétée comme les décisions d’entrée et de sortie.
+6.1.3. Conclusions:
+6.1.4. L’offre d’industrie
+Pour calculer l’offre de l’industrie, on doit additionner l’offre individuelle de chaque firme.
+
+
+L’offre de l’industrie est plus élastique à long terme parce qu’au-delà de l’ajustement des facteurs par les firmes présentes sur le marché, il y aura aussi un mouvement d’entrée par les entrants potentiels ou de sortie de certaines firmes établies sur le marché.
+6.1.5. La firme marginale
+Au prix P*, la firme ayant un profit nul est la firme marginale, càd que c’est le dernier entrant ou le premier sortant du secteur.
+
+
+Cette firme marginale produit au niveau minimum de son CMoT. On sait qu’il y a égalité entre CM et CMoT en ce point. Donc, pour la firme marginale, RM = CM au minimum du CMoT.
+
+
+A long terme, en concurrence parfaite, toutes les firmes ou entrants potentiels d’un secteur ont une même structure de coûts,l’offre de long terme dans ce secteur est parfaitement élastique, les profits sont nuls.
+6.2. Le monopole pur
+L’offre émane d’un seul producteur.
+6.2.1. Décision de production du monopole
+Monopole privé veut maximiser sont profit. => RM = CM.
+Contrairement à la concurrence parfaite, le monopole peut avoir un profit positif à long- terme.
+
+
+RM > 0 ssi élasticité > 1
+RM < P
+6.2.2. Comparaison entre la concurrence parfaite et le monopole
+Concurrence parfaite:
+Produit à court terme au point P = CM.
+
+
+Monopole:
+Egalise RM et CM.
+
+
+Par rapport à une situation de c.p., le monopole réduit les quantités et augmente le prix.
+La situation est donc moins avantageuse côté consommateur.
+
+
+A long terme, le monopole va diminuer encore plus les quantités et le prix sera encore plus élevé.
+
+
+Perte de bien-être due au monopole: comparaison à long-terme.
+  
+
+6.2.3. Le monopole naturel
+Lorsque les coût fixes sont énormes et qu’il y a des économies d’échelle, il y a une situation de monopole naturel.
+
+
+Un monopole n’a pas de courbe d’offre puisqu’il choisit son prix.
+6.2.4. Monopole et discrimination de prix
+Lorsqu’il n’y a qu’un seul prix, les consommateurs retirent toujours un surplus car ils auraient été prêts à payer plus cher que ce qu’ils vont payer effectivement.
+
+
+La discrimination des prix signifie que différents consommateurs vont payer des prix différents.
+La discrimination ne marche que si le marché est cloisonné.
+
+
+En l’absence de discrimination, RM = CM
+Si discrimination est parfaite, il y a un grand nombre d’acheteurs qui sont prêts à acheter une quantité infinitésimale et le monopoliste est capable de discriminer sur chaque point de la droite de demande.
+
+
+En présence de discrimination, RM se confond toujours avec la droite de demande.
+6.2.5. Monopole et changement technique
+L’existence de monopole est indispensable pour le progrès technique selon Schumpeter.
+Le progrès technique a lieu car les firmes privées recherchent les situations de monopole.
+Le progrès technique permet de diminuer le coût moyen avec le temps.
+Le système de brevet permet de créer des monopoles temporaires.
+6.3. Concurrence imparfaite
+Situation proches du monopole: oligopole.
+Marché où il y a peu de producteur. Situation où les décisions des firmes sont interdépendantes.
+
+
+Sutiation proche de la concurrence parfaite: concurrence monopolistique.
+Beaucoup de vendeur avec des produits qui ne sont pas des substituts parfaits.
+6.3.1. La structure de marché
+Plusieurs facteurs qui expliquent pourquoi certains marchés sont plus proche de l’oligopole ou de la concurrence monopolistique
+
+
+a/ économie d’échelle:
+Faible: grand nombre de prod. Importante: petit nombre de prod
+
+
+b/ taille du marché
+Plus un marché est important ( a structure de coûts égaux), plus la concurrence est favorisée.
+6.3.2. La concurrence monopolistique
+contrairement à la conc .parf., la demande n’est pas parfaitement élastique.
+Il faut distinguer la demande pour l’industrie et le demande pour la firme individuelle.
+
+
+L’équilibre en concurrence monopolistique est une situation où chaque firme fait un profit nul.
+optimum => RM = CM
+6.3.3. L’oligopole
+Peu de concurrents et leurs décisions sont interdépendantes.
+
+
+En situation de collusion, toutes les firmes agissent de façon concertée pour maximiser le profit total de l’industrie.
+Mais la collusion n’est pas stable car des firmes auront tendance à tricher pour augmenter leur production tant que leur RM > CM.
+6.3.3.1. Théorie des jeux et équilibre de Nash:
+L’équilibre du jeu ( ou l’équilibre de Nash ) est une situation où chaque joueur choisit sa meilleure stratégie pour maximiser ses bénéfices individuels, étant donné que tous les autres joueurs choisissent leur meilleure stratégie.
+
+
+Une stratégie dominante est une stratégie qui est toujours la meilleure pour un joueur quelque soit la stratégie choisie par l’autre joueur.
+
+
+C’est un jeu non coopératif ( chacun cherche son avantage ).
+6.3.3.2. Jeux statiques et jeux répétés:
+Dans un jeu statique, les firmes ne se rencontrent que une fois.
+6.3.4. Entrée et concurrence potentielle
+Un marché est dit contestable lorsqu’il y a entrée libre ce qui implique:
+a/ Tout le monde à accès à la même technologie et aux mêmes coûts.
+b/ Il n’y a pas de coûts irrécupérables.
+
+
+Avec ces conditions il serait théoriquement possible de rentrer dans le marché, de ramasser un profit important et de quitter ensuite le marché avant que les autres firmes aient eu le temps de réagir.
+
+
+Dans la réalité, ces conditions n’existent pas parfaitement.
+
+
+Les barrières à l’entrée limitent l’entrée potentielle:
+
+
+1/ Barrière innocentes:
+Pas érigiée par des firmes intérieures au marché.
+deux types:
+a) Un avantage de coùuts absolus.
+b) Des économies d’échelle importante.
+
+
+2/ Barrières stratégiques:
+Si une firme B doit décider si elle entre sur le marché, A peut accepter ou se lancer dans une guerre des prix.
+7. Échanges internationaux
+Les économistes sont en général tous en faveur du libre-échange et opposés au protectionnisme.
+7.1. Les faits stylisés du commerce international
+Depuis la fin de la Deuxième Guerre Mondiale et jusqu’en 2008 ( Année du début de la grande récession actuelle) le taux de croissance des échanges est resté loin supérieur au taux de croissance de la production. Le degré d’ouverture des différents pays a crû de manière continue.
+7.1.1. Exportation en % du PIB entre 1960 et 2008
+Les statistiques d’exportation en % du PIB expriment le degré d’ouverture d’un pays.
+Celui de la Belgique est passé de 33% à 85%.
+
+
+Pour les plus grandes économies qui ont un degré d’ouverture plus faible, elle voient une forte croissance de leur taux d’ouverture : France passe de 14% à 29% en 2000. Les USE de 5% à 13%. Les exportations de ces pays ont crû plus vite que leur PIB.
+7.1.2. Échanges mondiaux en 2007 ( en% des exportations mondiales de bien)
+a/ Plus de la moitié du commerce mondial est le fait de l’Amérique du nord et de l’Europe.
+Près d’un tier est interne a l’UE.
+
+
+b/ Les échanges entre les pays industrialisés forment la plus grande partie de ce commerce mondial.
+
+
+c/ Les échanges entre les pays industrialisés et les P.V.D ne sont pas si important du point de vue mondial.
+
+
+d/ Les échanges entre les P.V.D. sont une partie minime du commerce mondial.
+
+
+e/ Si on compare l’ampleur du commerce international d’un pays à son propre revenu national, plusieurs PVD d’Afrique et du moyen orient tiennent le haut du pavé.
+7.1.3. Composition des exportations mondiales (en%)
+a/ Baisse de la part des produits primaires dans les exportations, mais la part des combustibles augmente. Ceci souligne l’importance de l’énergie et des exportations énergétiques.
+
+
+b/ Augmentation des produits manufacturés. Les produits manufacturés sont formés principalement par les biens d’équipement. Cette part croissante des produits manufacturés est une tendance récente des dernières décennies dans le commerce international.
+7.2. La théorie des avantages comparatifs
+7.2.1. Introduction:
+Un échange ne peut pas détériorer le bien-être mais ne peut que l’augmenter. Le protectionnisme ( sous toutes ses formes) est un obstacle aux échanges et donc ne peut que détériorer le bien-être.
+
+
+La théorie des avantages comparatifs repose sur les avantages de la spécialisation.
+Elle indique que les pays vont se spécialiser dans la production de biens et services pour lesquels ils peuvent produire à un coût relatif moindre.
+
+
+Cette théorie se base sur les coûts d’opportunité et non sur les rendements d’échelle.
+7.2.2. Exemple d’avantages comparatifs
+Posons: Japon met 30h à faire une vidéo et 5 à faire une chemise.
+Chine met 60h à faire une vidéo et 6 à faire une chemise.
+
+
+Japon > Chine pour la production des deux.
+Le japon va se spécialiser dans le produit où il est relativement le plus compétitif (vidéo). La chine va alors se spécialiser dans le produit pour lequel les coûts relatifs sont les moins élevés ( les chemises)
+
+
+Comment les échanges vont s’établir ?
+AU japon 1 vidéo  = 6 chemises. En chine 1 vidéo = 10 chemise.
+La japon a intérêt à échanger ses vidéos avec la chine car elle va obtenir 10 chemise plutôt que 6. La chine a intérêt à échanger ses chemises avec le japon car elle va en obtenir 1 pour 6 chemise plutôt que pour 10..
+7.2.3. Spécialisation
+Même s’il est moins coûteux de produire des chemises au Japon qu’en Chine, le Japon ne va pas produire de chemise parce qu’il sera encore moins coûteux de ne produire que des vidéos et obtenir des chemises chinoises en échange.
+7.2.3.1. Gains respectifs:
+Le coût d’une chemise au Japon est de 5H de travail. Le japon peut échanger en chine une chemise pour le prix d’1/10 de vidéo ( = 30/10 = 3h). Le Japon gagne donc 5-3=2h à échanger.
+
+
+Le coût d’une vidéo en chine est de 60h de travail. La chine peut obtenir au Japon une vidéo contre 6 chemise. La production de six chemises représente 36h. La Chine gagne 60- 36=24h à échanger.
+
+
+Les deux gagnent à l’échange.
+7.2.3.2. Relation avec les prix mondiaux:
+Le japon exportera si Pvidéo/Pchemise > 6. La Chine exportera si Pchemise/Pvidéo > 1/10.
+
+
+Par conséquant les deux pays auront intérêt à exporter sur le marché mondial si 6 < Pvidéo/Pchemise < 10.
+7.2.4. Relation avec les taux de change
+Si l’heure de travail en chine vaut 1 yuan la vidéo coûte 60 yuans et la chemise 6 yuans.
+Si l’heure de travail au Japon vaut 1 yen, la vidéo coûte 30yens et la chemise 5 yens.
+7.2.4.1. Comparaison des prix en yuans avec deux taux de change:
+Si on a 1 yen = 2 yuans, au Japon la vidéo coûtera 60 yuans et la chemise 10.
+La chine est alors plus compétitive pour les deux produits.
+
+
+Si on a 1 yen = 6/5 yuans, au Japon la vidéo coûte 36 yuans et la chemise 6.
+Le Japon est alors compétitif pour tous les protuits.
+
+
+Lorsque le Yen se déprécie, le Japon devient plus compétitif.
+
+
+Le taux de change va varier de façon à tenir compte de la différence d’avantage absolu et les avantages comparatifs vont déterminer la spécialisation de l’échange.
+7.2.5. L’intensité capitalistique
+Si les pays industrialisés ont une abondance relative du facteur capital par rapport au facteur travail, ils vont avoir un avantage comparatif à exporter des biens à intensité capitalistique élevée.
+Concrètement, les pays riches on un avantage comparatif à exporter les produits à forte intensité capitalistiques ( des machines, des équipements, …) tandis que les pays plus pauvres ont intérêt à développer l’exportation dans les produits utilisant plutôt de la main d’oeuvre (produit textiles, …)
+7.2.6. Les échanges intra-industriels
+Si la rareté relative des facteurs explique certainement une grande partie des échanges commerciaux internationaux, elle n’en explique cependant pas la totalité.
+Les avantages comparatifs expliquent surtout l’avantage de la spécialisation et de l’échange.
+
+
+Un fait relativement récent du commerce international est le développement du commerce intra-industriel, càd l’échange de produit similaire voire identiques. (ex: Des Mercedes sont vendues en Italie et des Fiat en Allemagne.)
+
+
+L’explication principale du commerce intra-industriel repose sur les économies d’échelle.
+7.3. Tarifs douaniers
+7.3.1. Les effets d’un tarif douanier
+Tarif douanier = Impôt sur les prix à l’importation.
+La demande intérieure diminue et l’offre intérieure augmente ce qui baisse l’importation.
+Les importations baissent d’autant plus que l’offre et la demande sont élastiques par rapport au prix.
+7.3.2. Les coûts et les avantages d’un tarif
+Le libre-échange est toujours plus avantageux que les tarifs. Quand un gouvernement impose des tarifs douaniers, cela implique une perte pour la société dans son ensemble, une perde de bien-être et une perde d’efficacité.
+7.3.3. Les subsides à l’exportation
+Le subside à l’exportation augmente les exportations , mais il provoque également une perte de bien-être et une perte d'efficacité.
+7.3.4. Le protectionnisme
+Un tarif peut être avantageux dans le cas d’un grand pays : C’est le seul argument en faveur d’un tarif qui a vraiment un sens au point de vue économique.
+Cas des U.S.A. , une baisse des importations d’un bien entraîne une baisse de son prix.
+
+
+Ce cas où le tarif est avantageux pour un pays reste cependant exceptionnel.
+
+
+Passons les autres arguments en revue:
+1/ Un tarif douanier est nécessaire pour maintenir un mode de vie et des produits nationaux.
+Le tarif n’est pas le bon instrument pour l’atteindre. Il lèse les consommateur en faisant monter les prix et ne pousse pas les firmes nationales à devenir plus efficaces, ce qui réduit la compétitivité du pays.
+
+
+2/ Une barrière douanière est nécessaire pour décourager l’importation de biens de luxe.
+Un tarif ne décourage pas la production de luxe à l’intérieur du pays. Il serait plus efficace d’avoir une taxe à la consommation des biens de luxe.
+
+
+3/  Un tarif est une nécessité stratégique pour protéger l’industrie militaire, l'industrie alimentaire, … .
+Pas efficace car fait payer les consommateur. Il vaudrait mieux subsidier la production.
+
+
+4/ Un tarif peut aider l’ “infant industry” ( les industries naissantes).
+Le désavantage d’un tarif mis en place pour protéger les industries naissantes est bien entendu le fait qu’un fois que l’industrie bénéficie de la protection, elle n’a pas véritablement d’incitant à devenir plus compétitive et le tarif provisoire risque de devenir définitif. Le secteur se battra pour maintenir ce tarif.
+
+
+5/ Il faut protéger nos produits parce que tel pays essaie d’inonder le marché en vue de remporter ce marché en recourant au dumping (prix plus bas que sur le marché domestique du producteur).
+Il est plus efficace d’imposer un subside à la production qui protège l’industrie en proie à une concurrence déloyale et qui ne heurte pas les consommateurs.
+
+
+6/ Les tarifs douaniers sont une ressource fiscale fondamentale.
+Cette justification n’est plus valide pour les pays qui ont un système de collecte d’impôts efficace.
+
+
+7/ Des arguments de politique commerciale stratégique peuvent, dans certains cas, justifier le protectionnisme.
+(voir p.186)
+
+
+8/ Les médias justifient souvent le protectionnisme comme une nécessité de se protéger contre le travail bon marché.
+L’avantage du commerce international est d’exploiter la différence d’intensité capitalistique de la production dans les différents pays.
+7.3.5. Les raisons et les formes de protectionnisme
+ Comment se fait il qu’on observe le protectionnisme partout dans le monde si il n’y a pas d’argument “agrégé” ?
+
+
+Les bénéfice d’un tarif douanier sont en général très concentré et les coûts très diffus.
+7.3.6. Autres formes de protectionnisme
+a/ Les quotas à l’importation: On limite par exemple, la quantité de voiture japonaise qui peut être importée en Europe.
+
+
+b/ Les barrières non tarifaires: Il s’agit essentiellement des normes de qualité.
+
+
+c/ Les achats publics
+
+
+d/ Les campagnes de persuasion pour acheter “national”.
+8. Finance
+La notion de capital est double: il y a le capital physique et le capital financier.
+Capital financier: Constitué par les droits de propriété sur le capital physique.
+8.1. Intérêt et prix du capital
+Le capital physique est un stock constitué par l’ensemble des équipements. Le fait de les utiliser va générer un flux de service.
+Contrairement à un stock qui se mesure à un instant t, un flux se mesure toujours sur un intervalle de temps.
+
+
+Il y a le stock de capital et le service du capital qui est un flux.
+Il y a un prix pour le stock, comment le détermine t’on ?
+
+
+Le paiement du prix du stock donne droit aux flux futurs de revenus que fournira le capital.
+Le calcul du prix du stock doit tenir en compte de tous les revenus futurs que ce capital va engendrer mais aussi de deux autres facteurs: Le temps et le taux d’intérêt
+
+
+100€ touchés maintenant valent plus que 100€ touché dans un ans. Pourquoi ? Grâce au taux d’intérêt des banques, les 100€ touchés maintenant vaudrons plus dans 1 an.
+
+
+On a:
+At+1 = At (1+i)  et At+2 = At (1+i)² , …
+C’est ce qu’on appelle la loi de l’intérêt composé.
+
+
+Pour obtenir la valeur actualisé d’une somme:
+At = (At+1) / (1+i) = (At+2) / (1+i)² = … = (At+n) / (1+i ) n
+
+
+Calculer la valeur actuelle d’un revenu futur permet de compter en euros d’aujourd’hui les flux de revenus futurs.
+Le prix du capital est la valeur actualisée des revenus futurs du capital.
+
+
+C’est en général le taux d’intérêt réel qui importe. r = i - ^p avec ^p = taux d’inflation.
+8.2. Intérêt et prix d’une obligation
+Il y a une relation très étroite entre le taux d’intérêt et le prix d’une obligation.
+Une obligation est un titre de créance. Le détenteur touche tous les ans les intérêt de l’obligation. Au bout d’une certaine période décidée sur le titre, le détenteur est remboursé de la somme initiale.
+
+
+Une obligation peut s’acheter et se vendre.
+
+
+Imaginons qu’on a une obligation  d’une valeur d’émission de 1000€ avec un intérêt nominal de 100€, payé chaque année sur une période indéterminée. ( équivalent d’un intéret de 10€ sur une obligation dont la valeur faciale est de 1000€. Supposons r actuel = 5%.
+
+
+On peut revendre l’obligation:
+
+
+VA = Y/i = 100/0.05 = 2000€.
+
+
+Il y a une relation inverse entre le prix boursier d’une obligation et le taux d’intérêt.
+Pour calculer cette valeur si l’intérêt nominal est sur une période finie:
+
+
+VA = (somme pour t allant de 1 à T ) Yt / (1+i)t
+8.3. Le risque
+Le risque est toujours un problème d’assurance: La ou il y a un risque, il y a toujours moyen de s’assurer contre ce risque.
+8.3.1. Définition du risque
+Pari 1: 50% chance de gagner 100 euro. 50 % chance perdre 100 euro.
+Pari 2: 50%chance de gagner 200 euro. 50% chance perdre 200euro.
+Les deux paris ont la même espérance de gain (0€) mais le deuxième est plus risqué car les variations de gain sont plus fortes.
+
+
+8.3.2. Attitudes face au risque
+3 types:
+* Neutralité: Neutre au risque. Considère que les deux paris sont équivalent car ils rapportent en moyenne, exactement la même chose.
+* Goût du risque: Préférera le 2eme pari car plus risqué.
+* Aversion au risque: Préférera le 1er pari car moins risqué.
+L’aversion au risque est très répendue dans le monde économique.
+
+
+L’aversion au risque est lié au principe de l’utilité marginale décroissante. Même si la chance que la maison brûle est très faible, cette perte est tellement désagréable qu’elle justifie la perte d’argent subie en s’assurant.
+
+
+Les individus qui ont de l’aversion pour le risque vont toujours s’assurer car ils sont toujours prêts à payer pour voir leur risque se réduire.
+Les individus qui assument les risques des autres sont rémunérés : le risque est rémunéré.
+8.3.3. Les fonctions d’une compagnie d’assurance
+Les primes d’assurance constituent les revenus d’une compagnie d’assurance. Les dépenses sont constituées par les déboursements aux clients. Le profit vient du fait que l’aversion au risque des clients les rend prêts à payer une prime d’assurance plus élevée que l’espérance mathématique de perte.
+
+
+Plus le nombre de client est grand, moins l’assurance prend des risques. => le pooling des risques.
+Cela marche uniquement si tous les risques sont indépendants.
+
+
+Risk-sharing: Pour un gros risque, les assurances se partagent le risque et se constituent en un “syndicat d’assurances”. Cela s’explique par l’aversion au risque. Il est moins grave de perdre ou gagner une petite somme qu’une grande somme.
+8.4. Risque et choix de portefeuille
+8.4.1. Le return et le risque d’une action et d’une obligation
+Le return d’une obligation est le taux d’intérêt nominal de l’obligation moins le taux d’inflation.
+return réel d’une obligation = i - p
+Le return d’une action est la somme du dividende et du gain en capital divisée par le prix d’achat, moins le taux d’inflation.
+Return réel d’une action = ( (div. + gain en capital)  / prix d’achat ) - ^p
+
+
+Pour une obligation, le seul risque est le taux d’inflation.
+Pour une action, il y a deux facteurs d’incertitude: le dividende et le gain en capital.
+Le dividende varie, si le profit est faible, peu de dividendes seront distribués.
+
+
+Contrairement aux détenteurs d’obligation, les actionnaires sont propriétaires et donc doit en subir les risques.
+8.4.2. Relation entre le return et le risque
+Les choix de portefeuilles sont basés sur un arbitrage entre le rendement et le risque d’un portefeuille.
+On appelle placement financier les choix de portefeuilles et investissement le fait d’accumuler du capital réel.
+
+
+Qu’est ce qui encourage à placer plus en action si c’est plus risqué ?
+1/ Return moyen plus élevé.
+2/ Au plus le risque est faible, au plus la détention d’action est intéressante.
+3/ L’individu qui a le goût du risque préférera nettement des actions à des actifs non risqués.
+
+
+Plus un actif est risqué, plus son prix sera bas, de façon à offrir un return plus élevé.
+8.4.3. Diversification du risque
+L’individu qui fait un choix de portefeuille, ne va en général pas placer la totalité de sa richesse dans un seul actif. Si il se diversifie, il peut diminuer le risque de son portefeulle sans diminuer le return moyen.
+
+
+L’addition de risques indépendants diminue le risque total.
+Il y a peu de gain lorsque les actifs ont une corrélation positive très forte. Au contraire, lorsqu’il y a corrélation négative cela devient encore plus intéressant.
+8.4.4. Le Bêta
+Le bêta est une mesure qui indique de quelle façon une action évolue par rapport à l’ensemble du marché boursier.
+
+
+Une action avec un bêta faible est une action peu risquée, dont les variations de return sont beaucoup plus faibles également.
+
+
+L’investisseur va rechercher des actions avec des bêta faibles ou négatifs pour diminuer le risque.
+
+
+8.4.5. Diversification et vie économique
+Il y a d’autre cas ou la diversification pourrait jouer un rôle important mais n’a pas nécessairement lieu.
+- Les PVD ont des recettes d’exportation qui dépendent d’un seul produit. C’est une situation très risquée.
+- Un travailleur ne peut pas diversifier ses revenus qui dépendent de la seule entreprise à laquelle il loue sa force de travail. L’assurance-chômage sert à réduire le risque de perte de revenu lié à la perte de l’emploi. Cette assurance est néanmoins loin d’être parfaite.
+
+
+8.5. Efficacité du marché boursier
+8.5.1.
+Le marché boursier traite l’information et ajuste les prix des actions en réaction à toute nouvelle information.
+
+
+La valeur d’une firme pour un individu et pour l’ensemble de la collectivité sera d’autant plus élevé que:
+1/ Les dividendes sont élevés.
+2/ Le Bêta est faible.
+8.5.2.
+Si le marché boursier alloue les investissements vers les bonnes firmes et a tendance à freiner les investissement vers les moins bonnes, il est dit efficient.
+
+
+Dans un marché boursier efficient, les prix des actifs reflètent leurs caractéristiques sous-jacentes et incorporent donc l’information pertinente disponible.
+
+
+Lorsque le marché est efficient, cela signifie que deux firmes qui ont le même risque ont le même return. Le marché est efficient lorsqu’un individu ne peut pas battre le marché.
+C’est pour cela qu’il y a une très grande sévérité contre les délits d’initié.
+
+
+Si lemarché est efficient, pourquoi y a t’il des crash boursiers, des variations énormes sur les marchés financiers ?
+
+
+Une des explications possibles : bulles spéculatives.
+
+
+Le prix d’une action dépend de rendements futurs attendus. Si tout le monde pense qu’une firme aura beaucoup de valeur, que ce soit correcte ou non, le prix va réellement augmenter.
+=> Ce sont les prophéties auto-réalisatrice.
+8.6. Marchés à terme:
+Il y a un marché à terme lorsqu’il y a des contrats pour délivrer des biens à une date future à un prix fixé aujourd’hui.
+
+
+Dans un contrat à terme, on dit que le spéculateur a une position ouverte. Il achète par contrats à terme et espère faire un profit en vendant au prix spot dans un an.
+
+
+Le spéculateur qui a la possibilité de signer un contrat à terme avec le vendeur, signe un contrat à terme avec un acheteur pour la même quantité. Le spéculateur a alors une position fermée : il n’a plus du tout de risque puisqu’il réalise une opération d’achat et de vente dans un an.
+8.7. Les options:
+
+
+On va considérer 3 placements:
+* Acheter une action
+* Acheter une option “call”
+* Acheter une option “put”
+8.7.1. Option call:
+Option call: Droit d’acheter une action, dans le futur, à un prix d’exercice donné.
+C’est simplement un droit : on peut acheter une action à un prix exercice donné, mais on est pas obligé.
+
+
+Si doit être exercée à une date spécifiée dans le futur => option européenne
+Si doit être exercé sur une période donnée => option américaine
+
+
+On achète une option à 100. Celà nous donne le droit d’acheter dans le futur une action à 100. Quel est la valeur de cette option ?
+Entre 0 et 100, la valeur du call est de 0.Si le prix de l’action est supérieure à 100, la valeur est de P - 100.
+8.7.2. Option put:
+Option put: Droit de vendre dans le futur une action à un prix d’exercice donné.
+
+
+On achète une option à 100. Cette option donne le droit de vendre au prix 100 dans le futur.
+La valeur du Put vaut 100 - P entre 0 et 100 et vaut 0 après.
+8.8. Finance d’entreprise:
+Deux moyens:
+1/ Les fonds propres ( les actions )
+2/ L’endettement ( Crédits bancaires, émission d’obligations,...
+
+
+Bilan:
+Actif: Capital physique
+Passif: Source de financement
+
+
+Structure financiere d’une entreprise:  Dettes/Fonds propres
+
+
+Théorème de Modigliani Miller: La valeur de la firme n’est pas influencée par la structure financière.
+9.  Les incitants et les contrats:
+9.1. Introduction:
+Dans les petites entreprises, le propriétaire cherche à maximiser le profit, car plus il est élevé plus le propriétaire sera riche.
+
+
+Dans les grosses entreprises il y a séparation du contrôle et de la propriété. Dans ce cas, les salariés vont ils chercher à optimiser le profit?
+Le travailleur ne va poursuivre les intérêts du propriétaire que si il y est forcé. Il faut donc contrôlé le travail.
+
+
+Dans une relation de travail, il y a asymétrie informationnelle. Le propriétaire n’a qu’une information imparfaite sur ce que font les managers alors qu’eux le savent très bien. Pareil pour le manager envers les employés.
+
+Ces problème de conflits d’intérêt sont réglés par la création d’incitants, par le biais de contrats.
+9.2. La relation principal - agent:
+ La relation principal-agent : Le principal a un objectif, qu’il va confier à un agent qui va agir en son nom. Or ils n’ont pas les mêmes intérêts. Comment inciter l’agent à fournir des effort correspondants aux intérêt du principal.
+
+
+Si le facteur chance n’intervenait pas, on pourrait mesurer l’effort en se basant sur les chiffres de ventes. Plus complexe dans la réalité. On ne peut distinguer les travailleurs manquant de chance et les paresseux. => C’est ce qu’on appelle du bruit. Il y a une variable aléatoire qui brouille le signal que reçoit le principal.
+
+
+Etudions différents types de contrats:
+Deux  hypothèses: Valeur du temps de travail de l’agent est de 20.
+Son revenu alternatif ( qu’il pourrait obtenir dans un autre travail ) est de 50.
+Et le tableau suivant des ventes:
+Travailleur : Chance = 140 Malchance = 60
+Paresseux : Chance = 60 Malchance = 60
+
+
+Comparons 3 schémas
+9.2.1. Contrat où l’agent reçoit un salaire fixe de 50
+Si il travaille il a 50 - 20 = 30. Si il paresse il a 50 - 0 = 50. Il va donc paresser.
+Le propriétaire va toucher 60 et payer 50. => Touche 10.
+
+
+9.2.2. L’agent reçoit un salaire fixe de 20 et 51% du résultat des ventes:
+Si il travaille il a 20 + 51% - 20. L'espérance de ses ventes est de 100.
+=> Il a 51.
+Si il paresse il a 20 + 51% et ses ventes seront de 60.
+=> Il a 50.6
+Il travaille donc
+Le principal peut s’attendre à avoir 100 et devra payer 71.  => Touche 29.
+9.2.3. Contrat assimilé à un tournoi:
+Le principal à 10 agents. Le meilleur aura 260 et les autres 50. Si il y a égalité entre plusieurs agents il y a  tirage au sort.
+Si il travaille ( et que les autres travaille également ) : 1/10*260 + 9/10*50 - 20 = 51.
+Si il décide d’être paresseux: 50.
+Ils vont donc tous fournir un effort.
+Revenu pour le principal : (10x100) - (260+ 9x50) = 290.
+ 9.3. Aléa moral:
+Si l’effort(non observable) choisi par l’agent ne correspond pas à l’intérêt du principal => Problème d’aléa moral.
+
+
+Dès le moment où chance et action sont liées d’une façon ou d’une autre, de sorte que les effets de la chance peuvent brouiller la mesure de l’action, l’existence d’assurance pousse à l’aléa moral.
+9.3.1. L’effet de la garantie de dépôts:
+Supposons deux investissent (avec chance et malchance à 50% de proba)
+Investissement sûr: Chance = 10 Malchance = 10 => Gain attendu = 5
+Investissement Risqué: Chance = 25, Malchance = -35. => Gain attendu = -5
+La banque devrait préféré l’investissement sur.
+
+
+Mais dans la plupart des pays les dépôts sont garantis.
+- Les déposants n’ont aucun incitant à ontroler le comportement de la banque.
+- La banque ne va pas supporter les risques.
+
+
+La banque va alors préféré l’investissement risqué. Il y a donc aléa moral car cela peut déboucher sur le soutien de projets non rentables.
+9.3.2. L’aléa moral issu du comportement des managers:
+- Les managers plutôt que de chercher le profit de l’entreprise, vont plutôt chercher la croissance : En réinvestissant une partie plus importantes de bénéfices pour faire croître l’entreprise. (Plus beau bureau, plus de secrétaire, …) 
+- Les managers se paient des salaires élevés
+-les managers continuent trop longtemps des opérations à perte.
+- Les managers résistent aux OPA (offre publique d’achat) qui menacent leur emploi.
+9.3.3. L’aléa moral dans les contrats financiers:
+Conflit entre actionnaires et créanciers. Les actionnaires sont favorables à des investissement plus risqués que les créanciers qui sont plus prudents.
+
+
+9.3.4. Les remèdes à l’aléa moral des managers:
+9.3.4.1. Améliorer le contrôle sur l’agent:
+Pas très efficace car difficile à vérifier.
+
+
+9.3.4.2. Contrôle par le marché:
+Si la firme est mal gérée, ses profits vont diminuer et la valeur de l’entreprise diminuera. Ceci augmentera la probabilité de faillite de d’O.P.A.
+
+
+9.3.4.3. Contrats incitatifs:
+Pourquoi pa splus de contrats incitatifs ?
+Côté positif: Pousse à l’effort
+Côté négatif: Impose un risque au travailleur
+
+
+Notons que ces contrats peuvent introduire des distorsions en privilégiant la quantité et sacrifiant par là même la qualité.
+
+
+9.4. La sélection adverse:
+L’asymétrie informationnelle peut entraîner des problèmes de sélection adverse.
+
+
+10. Économie publique:
+
+
+10.1. Le rôle de l’état:
+L’état a un rôle à jouer quand on se trouve en présence d’échecs du marché.
+
+
+10.2. Externalités:
+Il y a une externalité économique lorsque la décision de production ou de consommation d’un agent économique influence les décisions de production ou de consommation d’autres agents économiques autrement que par le prix du marché.
+
+
+10.2.1. Cas d’une externalité négative:
+Il y a externalité négative lorsqu’un agent économique prend une décision qui impose des coûts à la collectivité sans devoir supporter lui-même l’entièreté de ces coûts. Autrement dit, lorsque le coût marginal social est supérieur au coût marginal privé.
+
+
+Prenons le cas de la pollution chimique.
+Le coût marginal social intègre les dégâts causés aux pêcheurs, agriculteurs, …
+
+
+L’équilibre privé concurrentiel est en RM privé = CM privé.
+Il y a production excessive.
+Dans une situation telle que celle-ci, le rôle de l’Etat consistera à imposer une taxe à la pollution de façon à ce que la firme internalise les coûts de la pollution.
+Cela rapprochera les décisions de production de l’efficacité sociale.
+
+
+10.2.2. Cas d’une externalité positive:
+
+
+ex: Je repeins ma façade et donc j’embellis le quartier. Je crée une externalité positive sur mes voisins => Le bénéfice marginal social est plus grand que le bénéfice marginal privé.
+
+
+L’équilibre concurrentiel produit donc une quantité inférieure à la quantité qui est socialement optimale.
+
+
+Intervention de l’état peut être l'octroi de subside.
+
+
+10.2.3. Les droits de propriété et le théorème de Coase:
+
+
+Les droits de propriétés détermine qui compense qui mais pas la quantité produite. : Les droits de propriétés ont donc un effet distributif.
+Le théorème de Coase  nous dit donc que:
+a/ L’existence d’un marché sur les droits de propriété peut suffire à générer une situation efficace.
+b/ L’existence ou non d’un droit de propriété va déterminer qui compense qui mais n’affecte en rien la décision optimale.
+
+
+10.3. Les biens publics:
+Un bien est dit privé si lorsqu’il est consommé par une personne, il ne peut l’être pas une autre.
+
+
+Un bien public a deux caractéristiques:
+a/ non-rival: La consommation de ce bien par quelqu’un ne prive pas quelqu’un d’autre de sa consommation.
+b/ Pas excluable: Impossible d’exclure quelqu’un de son bénéfice.
+
+
+10.3.1. Bien public et pureté de l’eau:
+La contribution individuelle au financement du bien public doit être indépendante de la disponibilité à payer d’un individu. Le mécanisme d’allocation va passer par la politique.
+
+
+10.4. Mécanismes politiques:
+10.4.1. Optimum social et concurrence électorale:
+L’optimum social se trouve au point où BM = CM.
+Tous les partis politiques ont une politique assez proche.
+
+
+10.4.2. Le marchand de glace et l’électeur médian:
+Exemple des marchands de glace:
+Sur une plage AB, avec deux marchand de glace, la situation optimale pour les deux est de se placer au point C (milieu de AB). Pour que le plus de monde vienne chez eux.
+
+
+C’est ce qui se passe en politique. Au cours des 30 dernière années, les décisions politiques était favorable à la classe moyenne. Cette classe représente précisement l’électeur médian.
+
+
+10.4.3. Problèmes de démocratie directe:
+La démocratie directe n’est pas praticable à grande échelle (ex: pays) car un droit réel à la parole n’est possible que dans des groupes relativement restreints.
+
+
+Tout vote en comité fonctionne selon le principe de démocratie directe.
+
+
+Prenons comme exemple 3 personnes qui doivent se partager 19€ (tableau du cours:)
+
+
+
+
+	1.
+	2.
+	3.
+	1. 3 est exclu
+	9.5
+	9.5
+	0
+	2. 1 est exclu; 3 convainc 2
+	0
+	10
+	9
+	3. 1 convainc 3
+	9
+	0
+	10
+	4. 2 propose 1
+	10
+	9
+	0
+	5. On revient à 2
+	0
+	10
+	9
+	
+
+On voit qu’il y a un cycle. Le cyclage apparaît lorsqu’il y a un vote majoritaire. Ce problème n’existe pas si il faut une décision à l’unanimité. Ce genre de décision est rarement utilisé car il est souvent difficile d’éviter qu’il y ai des perdants.
+
+
+Paradoxe de condorcet:
+3 individus (1,2,3) et trois politiques (A,B,C). Voici l’ordre de préférence des électeurs:
+1: A>B>C
+2: B>C>A
+3: C>A>B
+
+
+Si vote entre A et B => Préfèrent A, Si vote entre B et C => Préfèrent B.
+On peut supposer que entre A et C préfère A ? Faux =>Préfèrent C.
+Il y a paradoxe.
+
+
+Le paradoxe de Condorcet est très important pour toutes décisions. Celui qui a le pouvoir de proposer a un pouvoir énorme. => pouvoir d’agenda.
+
+
+
+
+10.4.4. Référendum et pouvoir d’agenda:
+Supposons qu’une décision doit être prise concernant le montant des dépenses publiques.
+En démocratie représentative avec concurrence entre Partis, on sait que les partis s’aligneront sur les préférence de l’électeur médian.
+
+
+Le pouvoir d’agenda va permettre au gouvernement en place de faire voter à la majorité une politique qui n’est pas celle préférée par l’électeur médian.
+
+
+Dans une situation de référendum, le gouvernement à le droit de décider sur quoi on va voter. La caractéristique est de présenter une proposition et de l’adopter ou la rejeter. Ce dernier cas est le statu quo. Il se peut qu’une majorité ne soit pas favorable à la proposition mais qu’elle l’approuve car le statu quo est pire.
+
+
+Cette situation est proche d’un monopole.
+
+
+10.4.5. Ignorance rationnelle:
+On a supposé que les électeurs étaient parfaitement informés mais ce n’est pas le cas dans la pratique.
+Les individus s’informent peut par eux même. Les lobbies vont produire l’information pour convaincre les électeurs.
+De ce fait, même dans les systèmes démocratiques, les lobbies ont souvent un poids politique plus important que ne le suggérerait leur poids électoral.
+
+
+10.5. Conclusion:
+La politique est un des domaines le moins bien connu par la science économique.
+Il faut souligner l’importance d’institutions particulières : Le mode de scrutin, la façon dont les lobbies peuvent ou ne peuvent pas être représentés dans les sphères politiques, …
+
+
+Le système démocratique est le meilleur garde-fou contre une dictature. Et le système de séparation des pouvoirs permet un meilleur contrôle de façon à éviter l’apparition d’une dictature.
+ECON-S-101        Université Libre de Bruxelles         /
+[a]Pas sûr du tout, à corriger. (p.67)
