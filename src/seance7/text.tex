@@ -41,7 +41,22 @@ En résumé, on a deux choses qui changent : le pouvoir de monopole, de nul à a
 La concurrence monopolistique par exemple veut dire qu'on a un petit pouvoir de monopole, on peut un peu augmenter
 les prix, on offre une plus-value. La concurrence parfaite est quand on est tellement en concurrence qu'on ne peut pas toucher au prix.
 
-%include{tabular_comparaison}
+
+%\begin{tabularx}{1.0\linewidth}{|*{5}{>{\centering\arraybackslash}X|}}
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\begin{center}
+\begin{tabularx}{1.0\linewidth}{@{}|l|Y|Y|Y|Y|@{}}
+
+\hline
+                                & Concurrence parfaite      & Concurrence monopolistique & Monopole & Oligopole\\\hline
+Le profit de long terme est nul & \cellcolor{black!25} Vrai & \cellcolor{black!25} Vrai  &          &          \\\hline
+$P = min(CMoT)$                 & \cellcolor{black!25} Vrai &                            &          &          \\\hline
+$A l'optimum, CM=P$             & \cellcolor{black!25} Vrai &                            &          &          \\\hline
+
+        
+\end{tabularx}
+\end{center}
 
 
 \subsection{Comparaison des diverses formes de marché}
@@ -59,7 +74,6 @@ les prix, on offre une plus-value. La concurrence parfaite est quand on est tell
 	\item [A] possède trois stratégies différentes possibles (\textbf{a}, \textbf{b} et \textbf{c}) ;
 	\item [B] possède trois stratégies différentes possibles (\textbf{d}, \textbf{e} et \textbf{f}) ;
 	\item [A] n'a pas de stratégie dominante ;
-	\item [f] est la seule stratégie dominante pour \textbf{B} ;
-	\item [(b,f)] est le seul équilibre de nash ;
-	\item [(a,f)] n'est pas un équilibre de nash car \textbf{A} peut choisir \textbf{b} et avoir la même quantité et réduire le gain de \textbf{B}.
+	\item [B] a \textbf{f} comme stratégie dominante ;
+	\item [(a,f)] et \textbf{(b,f)} sont les équilibres de nashs ;
 \end{description}
