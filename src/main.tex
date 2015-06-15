@@ -1,25 +1,36 @@
+
+
+% Ce ficher contient le format standard des pdfs de https://github.com/ULBstudents , il n'est pas voué à être modifié. Pour modifier les informations de titres et autheurs, modifiez pdfinfo.tex
+
+
 \documentclass[a4paper,10pt]{article}
 \usepackage[a4paper]{geometry}
 \geometry{hscale=0.8,vscale=0.8,centering}
+
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel} % Exposant
-
 
 \usepackage{enumerate} % Listes
 \usepackage{amsmath} % Matrices
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{ulem}
-\usepackage{color}
 \usepackage{listings} % Lecture du code
 \usepackage{hyperref} % Hyperlien
-\usepackage{tabularx}
-\usepackage[table]{xcolor}
+\usepackage{color} % Couleurs
+\usepackage[table]{xcolor} % Couleurs dans les tableaux
 
-% Mise en page spéciale fancyhdr pour les en-têtes
-\usepackage{fancyhdr}
+\input{pdfinfo}
+
+\usepackage{fancyhdr} % Mise en page spéciale fancyhdr pour les en-têtes
 \pagestyle{fancy}
+
+
+\title{\ulbtitle} % Titres
+\author{\ulbauthors} % Auteurs depuis pdfinfo.tex
+\date{\today} % Date de compilation du pdf
+
 
 \renewcommand{\headrulewidth}{0pt}
 \fancyhead[C]{} % Rien en haut de page au milieu
@@ -28,33 +39,22 @@
 
 \renewcommand{\footrulewidth}{0pt}
 \fancyfoot[C]{} % Rien en bas de page au milieu
-\fancyfoot[L]{Open source pour ajout ou modification: https://github.com/Rodriguevb/ECON-S101-Introduction\_a\_la\_microeconomie-Resume} % Numéro de page en bas de page à gauche
+\fancyfoot[L]{Open source pour ajout ou modification: \ulbbasdepage} % Lien de bas de page à gauche
 \fancyfoot[R]{\thepage} % Numéro de page en bas de page à droite
 \setlength{\headheight}{12.1638pt}
 
 
-\author{Rodrigue \textsc{Van Brande}} % Auteur
-\date{\today} % Date de compilation du pdf
-
 \pdfinfo{
-    /Author   (Rodrigue VAN BRANDE)
-    /Creator  (https://github.com/Rodriguevb/ECON-S101-Introduction_a_la_microeconomie-Resume/)
+/Title    (\ulbpdfinfotitle)
+/Author   (\ulbpdfinfoauthors)
+/Creator  (\ulbpdfinfolink)
 }
+
 
 %Création d'un subsub...section (avec \paragraph{} \subparagraph{})
 \setcounter{secnumdepth}{5}
 \setcounter{tocdepth}{5}
 
-
-% Titre du PDF
-\title{ECON-S101 - Introduction à la microéconomie\\Micael \textsc{Castanheira De Moura}\\Résumé du cours}
-
-\pdfinfo{
-/Title(ECON-S101 - Introduction à la microéconomie - Résumé du cours)
-}
-
-%Profondeur pour la table des matières dans les titres
-\setcounter{tocdepth}{5}
 
 \begin{document}
     \maketitle       % Titre
