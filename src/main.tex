@@ -45,9 +45,9 @@
 
 
 \pdfinfo{
-/Title    (\ulbpdfinfotitle)
-/Author   (\ulbpdfinfoauthors)
-/Creator  (\ulbpdfinfolink)
+	/Title    (\ulbpdfinfotitle)
+	/Author   (\ulbpdfinfoauthors)
+	/Creator  (\ulbpdfinfolink)
 }
 
 
@@ -57,19 +57,9 @@
 
 
 \begin{document}
-    \maketitle       % Titre
-    \newpage         % Saut de page
-    \tableofcontents % table des matières / Besoin d'une double compilation
-    \newpage         % Saut de page
-
-    \input{seance1/text}\newpage
-    \input{seance2/text}\newpage
-    \input{seance3/text}\newpage
-    \input{seance4/text}\newpage
-    \input{seance5/text}\newpage
-    \input{seance6/text}\newpage
-    \input{seance7/text}\newpage
-    \input{seance8/text}\newpage
-    \input{seance9/text}
-    
+	\maketitle       % Titre
+	\newpage         % Saut de page
+	\tableofcontents % table des matières / Besoin d'une double compilation
+	\newpage         % Saut de page
+	\ulbpdfinput     % Le contenu
 \end{document}
