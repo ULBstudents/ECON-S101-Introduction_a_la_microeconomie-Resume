@@ -1,5 +1,7 @@
 # Résumé du cours ECON-S101 - Introduction à la microéconomie
 
+## [>>> Télécharger la dernière version du résumé <<<](https://github.com/ULBstudents/ECON-S101-Introduction_a_la_microeconomie-Resume/raw/master/ECON-S101-Introduction_a_la_microeconomie-Resume.pdf)
+
 ## Qu'est-ce donc ce répertoire ?
 Ce répertoire contient le résumé en PDF (via LaTeX) du cours ECON-S101 - Introduction à la microéconomie de l'Université Libre de Bruxelles. Ce résumé dispose de la même table des matières que le cours (dans la mesure du possible).
 
